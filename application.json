@@ -19,6 +19,10 @@
     {
       "id": "Page5",
       "isDefault": false
+    },
+    {
+      "id": "Page6",
+      "isDefault": false
     }
   ],
   "viewMode": false,
